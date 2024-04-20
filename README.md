@@ -1,5 +1,38 @@
 # scooters-rental-app
 University scooter rental app project [Polish]
+
+The functionalities of the application are:
+
+  Management:
+
+  -Facilities
+  
+  -Users, including the ability to create accounts for stationary customers.
+  
+ -Employees.
+ 
+ -Scooters.
+ 
+ -Reservations.
+ 
+ -Rentals.
+ 
+ -Revisions.
+ 
+ -Collections.
+ 
+ -Reports (from the company and the facility).
+ 
+ 
+ Authorization of users.
+
+ 
+
+The technologies used are:
+
+Laravel, Tailwind, Bootstrap,
+
+App screens:
 ![12](https://github.com/FilipKarkowski/scooters-rental-app/assets/114432611/b7ca29d9-88a6-4c31-a5bf-740f0f19bd76)
 ![5](https://github.com/FilipKarkowski/scooters-rental-app/assets/114432611/3b95de80-3ab8-40ce-8f49-bc84c0fc9a75)
 ![1](https://github.com/FilipKarkowski/scooters-rental-app/assets/114432611/9a16dad3-b302-419d-b0c4-0888a2ee5981)
