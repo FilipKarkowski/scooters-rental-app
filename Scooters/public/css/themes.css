@@ -1,0 +1,148 @@
+.theme-light {
+    --color-primary: #3b82f6;
+    --color-secondary: #f3f4f6;
+    --color-accent: #fd6f53;
+    --font-color: #000000;
+
+    --color-icon: #000000;
+    --color-custom2: #000000;
+    --color-custom3: #3b82f6;
+    --color-custom4: #718096;
+    --color-custom5: #e3e5ea;
+
+
+}
+.theme-dark {
+    --color-primary: #ab3ad1;
+    --color-secondary: #101010;
+    --color-accent: #12cdea;
+    --font-color: #ffffff;
+
+    --color-icon: #ffffff;
+    --color-custom2: #ffffff;
+    --color-custom3: #eebfff;
+    --color-custom4: #c0c0c0;
+    --color-custom5: #4b4b4b;
+
+
+
+}
+
+.theme-dark i.bxs-moon{
+    display: block;
+    color: var(--color-icon);
+    padding-right: 15px;
+    scale: 1.8;
+}
+
+
+.theme-dark i.bxs-sun{
+    display: none;
+}
+
+.theme-light i.bxs-moon{
+    display: none;
+}
+
+.theme-light i.bxs-sun{
+    display: block;
+    color: var(--color-icon);
+    padding-right: 15px;
+    scale: 1.8;
+
+}
+
+
+.themecontainer {
+
+    background: var(--color-secondary);
+
+}
+
+
+
+
+
+.themecontainer .rounded-b {
+    border-color: var(--color-secondary);
+}
+.themecontainer .bg-white {
+
+    background: var(--color-secondary);
+}
+
+.themecontainer .space-y-6{
+    background: var(--color-secondary);
+}
+
+.themecontainer h1 {
+    color: var(--font-color);
+}
+
+.themecontainer button.bg-blue-500 {
+    background: var(--color-primary);
+}
+
+.themecontainer button.bg-blue-700 {
+    background: var(--color-primary);
+}
+
+.themecontainer .text-blue-500 {
+    color: var(--color-primary);
+}
+
+.themecontainer .border-blue-500 {
+    color: var(--color-custom3);
+    border-color: var(--color-custom3);
+}
+
+.themecontainer .text-black {
+    color: var(--color-custom2);
+
+}
+
+.themecontainer .text-gray-500 {
+    color: var(--color-custom4);
+}
+
+.themecontainer  .border-gray-200 {
+    border-color: var(--color-custom5);
+
+}
+
+.themecontainer  .border-b {
+    border-color: var(--color-custom5);
+
+}
+
+.themecontainer .text-gray-400 {
+    color: var(--font-color);
+
+}
+
+.themecontainer .table-auto {
+    color: var(--color-custom4);
+
+}
+
+.themecontainer .text-xl {
+    color: var(--font-color);
+
+}
+
+.themecontainer .text-gray-900 {
+    color: var(--font-color);
+
+}
+
+.themecontainer .text-gray-800{
+    color: var(--font-color);
+}
+
+.themecontainer .bg-gray-50 {
+    color: black;
+}
+.themecontainer .bg-gray-500 {
+    background-color: white;
+    color: black
+}
